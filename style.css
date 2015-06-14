@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+.game{
+	width: 320px;
+}
+#status{
+	text-align: center;
+}
+.cell{
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	margin-bottom: 5px;
+	border: 2px solid black;
+}
+.Red{
+	background-color: red;
+}
+.Green{
+	background-color: green;
+}
